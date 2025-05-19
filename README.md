@@ -1,1 +1,2 @@
 # MomentsSocialMedia
+git init test
